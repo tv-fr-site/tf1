@@ -8,6 +8,12 @@ body {
   width: 50px; /* ajustez la taille selon vos besoins */
   height: auto;
 }
+
+a img {
+  width: 50px; /* ajustez la taille selon vos besoins */
+  height: auto;
+}
+
 img {
   width: 400px; /* ajustez la taille selon vos besoins */
   height: auto;
